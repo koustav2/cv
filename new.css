@@ -1,0 +1,38 @@
+.circular {
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+}
+
+a.hover {
+    color: red;
+}
+
+.tb1 {
+    color: rgb(40, 40, 219);
+}
+
+.tb2 {
+    color: blue;
+    caption-side: top;
+}
+
+table,
+th,
+td {
+    padding: 5px;
+    border: 2px rgb(216, 204, 204);
+    border-style: solid;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    color: rgb(8, 22, 143);
+}
+
+.new {
+    border-color: transparent;
+}
